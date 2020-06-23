@@ -1,0 +1,13 @@
+C:\DEV\AulaPLINQ\bin\Debug\netcoreapp3.1\AulaPLINQ.exe
+C:\DEV\AulaPLINQ\bin\Debug\netcoreapp3.1\AulaPLINQ.deps.json
+C:\DEV\AulaPLINQ\bin\Debug\netcoreapp3.1\AulaPLINQ.runtimeconfig.json
+C:\DEV\AulaPLINQ\bin\Debug\netcoreapp3.1\AulaPLINQ.runtimeconfig.dev.json
+C:\DEV\AulaPLINQ\bin\Debug\netcoreapp3.1\AulaPLINQ.dll
+C:\DEV\AulaPLINQ\bin\Debug\netcoreapp3.1\AulaPLINQ.pdb
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.csprojAssemblyReference.cache
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.AssemblyInfoInputs.cache
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.AssemblyInfo.cs
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.csproj.CoreCompileInputs.cache
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.dll
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.pdb
+C:\DEV\AulaPLINQ\obj\Debug\netcoreapp3.1\AulaPLINQ.genruntimeconfig.cache
