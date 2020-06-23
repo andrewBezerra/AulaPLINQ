@@ -22,13 +22,14 @@ namespace AulaPLINQ
             st.Start();
             var words = sentence.Split()
                                 .AsParallel() //PLINQ DECIDE QUANDO RODAR PARALELAMETE - ISSO É O PADRÃO.
-                                .AsOrdered()
-                                .WithExecutionMode(ParallelExecutionMode.ForceParallelism)
+                                .AsOrdered() //PLINQ NÃO ORDENA POR PADRÃO POR QUESTOES DE PERFORMANCE
+                                .WithExecutionMode(ParallelExecutionMode.ForceParallelism) // FORÇANDO RODAR DE FORMA PARALELA
                                 .Select(word => new string(word.Reverse().ToArray()));
 
             System.Console.WriteLine(string.Join(" ", words));
             st.Stop();
             Console.WriteLine($"Tempo decorrido {st.Elapsed}");
+
         }
         static void Main(string[] args)
         {
